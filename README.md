@@ -20,7 +20,7 @@ This project is a fully-featured image slider built using **HTML**, **CSS**, and
 - JavaScript (Vanilla)
 
 ## 📁 Project Structure
-mage-slider/
+Image-slider/
 ├── index.html # Main HTML file
 ├── style.css # CSS styles 
 ├── script.js # JavaScript logic 
