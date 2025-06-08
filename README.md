@@ -1,4 +1,4 @@
-# 🌠 Advanced Image Slider
+# 🌠 Image Slider
 
 This project is a fully-featured image slider built using **HTML**, **CSS**, and **JavaScript**. It is interactive, responsive, and user-friendly with both manual and automatic navigation features.
 
